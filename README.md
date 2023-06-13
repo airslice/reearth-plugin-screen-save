@@ -14,6 +14,7 @@
   - Theme：ウィジェットのテーマカラーをDarkかLightから選択することができます。
   - Backgroung Color：ウィジェットの背景色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
   - Primary Color：Exportボタンの色を変更することができます。これを設定している場合、Themeの設定内容は無視されます。
+
     <img src="https://github.com/nbayashi/test_tile/assets/13118515/78e70215-89f2-488f-a50f-f38b9b35a2c9">
 
 (左：ThemeをDark、中央：ThemeをLight、右：BackgroundColorとPrimary Colorを指定)
