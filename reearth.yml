@@ -1,5 +1,5 @@
 name: Screen Save
-version: 1.0.0
+version: 1.0.1
 id: reearth-plugin-toolbox-screensave
 extensions:
   - id: screensave
